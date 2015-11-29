@@ -1,2 +1,2 @@
-# Sum-of-Two-Num---Java
-Write a program to print the sum of two numbers. One number should be int and another should be float.
+# My-Java-Learning 
+Here you can find the list of sample Java programs I tried out.
